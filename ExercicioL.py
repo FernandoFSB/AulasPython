@@ -1,6 +1,6 @@
 # Faça um programa que pergunte o preço de três produtos
 # e informe qual produto você deve comprar, sabendo que a
-# decisão é sempre pelo mais barato. SEM IGUALDADE NOS VALORES
+# decisão é sempre pelo mais barato. SEM IGUALDADE NOS PREÇOS.
 
 
 prod1 = float(input("Digite o primeiro preço: "))
